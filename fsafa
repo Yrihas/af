@@ -1,0 +1,555 @@
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local m00rgui = Instance.new("ScreenGui")
+local Frame = Instance.new("Frame")
+local name = Instance.new("TextButton")
+local m00rify = Instance.new("TextButton")
+local shedletskyspam = Instance.new("TextButton")
+local Guest666Client = Instance.new("TextButton")
+local Johndoe = Instance.new("TextButton")
+local m00rkiddparticles = Instance.new("TextButton")
+local shedletskyandsnoopdoggskybox = Instance.new("TextButton")
+local ChickenNugget = Instance.new("TextButton")
+local ScatmanWorld = Instance.new("TextButton")
+local HappyTimes = Instance.new("TextButton")
+local _1x1x1x1gui = Instance.new("TextButton")
+local rainbowbls = Instance.new("TextButton")
+local toadroastremakebyKpRHk = Instance.new("TextButton")
+local shedletsify = Instance.new("TextButton")
+local Floodmap = Instance.new("TextButton")
+local Mysterious = Instance.new("TextButton")
+local ChikaWantsCake = Instance.new("TextButton")
+local ShedletskyLaugh = Instance.new("TextButton")
+local GnomeLaugh = Instance.new("TextButton")
+local bloodpop = Instance.new("TextButton")
+local n0scaryfacespam = Instance.new("TextButton")
+local ImageLabel = Instance.new("ImageLabel")
+
+--Properties:
+
+m00rgui.Name = "m00rgui"
+m00rgui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+m00rgui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+Frame.Parent = m00rgui
+Frame.BackgroundColor3 = Color3.fromRGB(21, 21, 21)
+Frame.BorderColor3 = Color3.fromRGB(212, 255, 20)
+Frame.BorderSizePixel = 2
+Frame.Position = UDim2.new(0.0454545468, 0, 0.0122549022, 0)
+Frame.Size = UDim2.new(0.36598745, 0, 0.979166687, 0)
+
+name.Name = "name"
+name.Parent = Frame
+name.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+name.BackgroundTransparency = 1.000
+name.BorderColor3 = Color3.fromRGB(0, 0, 0)
+name.BorderSizePixel = 0
+name.Position = UDim2.new(0.109207712, 0, 0.0162703376, 0)
+name.Size = UDim2.new(0.779443264, 0, 0.0913120508, 0)
+name.Font = Enum.Font.SourceSans
+name.Text = " m00rkidd gui v1\\nmade by @KpRHk"
+name.TextColor3 = Color3.fromRGB(255, 255, 255)
+name.TextScaled = true
+name.TextSize = 14.000
+name.TextWrapped = true
+
+m00rify.Name = "m00rify"
+m00rify.Parent = Frame
+m00rify.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+m00rify.BorderColor3 = Color3.fromRGB(212, 255, 20)
+m00rify.BorderSizePixel = 2
+m00rify.Position = UDim2.new(0.0192719642, 0, 0.138923645, 0)
+m00rify.Size = UDim2.new(0.229544953, 0, 0.0675323233, 0)
+m00rify.Font = Enum.Font.SourceSans
+m00rify.Text = "m00rify"
+m00rify.TextColor3 = Color3.fromRGB(255, 255, 255)
+m00rify.TextScaled = true
+m00rify.TextSize = 14.000
+m00rify.TextWrapped = true
+
+shedletskyspam.Name = "shedletsky spam"
+shedletskyspam.Parent = Frame
+shedletskyspam.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+shedletskyspam.BorderColor3 = Color3.fromRGB(212, 255, 20)
+shedletskyspam.BorderSizePixel = 2
+shedletskyspam.Position = UDim2.new(0.278372586, 0, 0.138923645, 0)
+shedletskyspam.Size = UDim2.new(0.229544953, 0, 0.0675323233, 0)
+shedletskyspam.Font = Enum.Font.SourceSans
+shedletskyspam.Text = "shedletsky spam"
+shedletskyspam.TextColor3 = Color3.fromRGB(255, 255, 255)
+shedletskyspam.TextScaled = true
+shedletskyspam.TextSize = 14.000
+shedletskyspam.TextWrapped = true
+
+Guest666Client.Name = "Guest 666 [Client]"
+Guest666Client.Parent = Frame
+Guest666Client.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Guest666Client.BorderColor3 = Color3.fromRGB(212, 255, 20)
+Guest666Client.BorderSizePixel = 2
+Guest666Client.Position = UDim2.new(0.533190548, 0, 0.138923645, 0)
+Guest666Client.Size = UDim2.new(0.229544953, 0, 0.0675323233, 0)
+Guest666Client.Font = Enum.Font.SourceSans
+Guest666Client.Text = "Guest 666 [Client]"
+Guest666Client.TextColor3 = Color3.fromRGB(255, 255, 255)
+Guest666Client.TextScaled = true
+Guest666Client.TextSize = 14.000
+Guest666Client.TextWrapped = true
+
+Johndoe.Name = "John doe"
+Johndoe.Parent = Frame
+Johndoe.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Johndoe.BorderColor3 = Color3.fromRGB(212, 255, 20)
+Johndoe.BorderSizePixel = 2
+Johndoe.Position = UDim2.new(0.788008571, 0, 0.138923645, 0)
+Johndoe.Size = UDim2.new(0.197425038, 0, 0.0675323233, 0)
+Johndoe.Font = Enum.Font.SourceSans
+Johndoe.Text = "John doe"
+Johndoe.TextColor3 = Color3.fromRGB(255, 255, 255)
+Johndoe.TextScaled = true
+Johndoe.TextSize = 14.000
+Johndoe.TextWrapped = true
+
+m00rkiddparticles.Name = "m00rkidd particles"
+m00rkiddparticles.Parent = Frame
+m00rkiddparticles.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+m00rkiddparticles.BorderColor3 = Color3.fromRGB(212, 255, 20)
+m00rkiddparticles.BorderSizePixel = 2
+m00rkiddparticles.Position = UDim2.new(0.0192719642, 0, 0.229036301, 0)
+m00rkiddparticles.Size = UDim2.new(0.229544953, 0, 0.0675323233, 0)
+m00rkiddparticles.Font = Enum.Font.SourceSans
+m00rkiddparticles.Text = "m00rkidd particles"
+m00rkiddparticles.TextColor3 = Color3.fromRGB(255, 255, 255)
+m00rkiddparticles.TextScaled = true
+m00rkiddparticles.TextSize = 14.000
+m00rkiddparticles.TextWrapped = true
+
+shedletskyandsnoopdoggskybox.Name = "shedletsky and snoop dogg skybox"
+shedletskyandsnoopdoggskybox.Parent = Frame
+shedletskyandsnoopdoggskybox.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+shedletskyandsnoopdoggskybox.BorderColor3 = Color3.fromRGB(212, 255, 20)
+shedletskyandsnoopdoggskybox.BorderSizePixel = 2
+shedletskyandsnoopdoggskybox.Position = UDim2.new(0.278372586, 0, 0.229036301, 0)
+shedletskyandsnoopdoggskybox.Size = UDim2.new(0.229544953, 0, 0.0675323233, 0)
+shedletskyandsnoopdoggskybox.Font = Enum.Font.SourceSans
+shedletskyandsnoopdoggskybox.Text = "shedletsky and snoop dogg skybox"
+shedletskyandsnoopdoggskybox.TextColor3 = Color3.fromRGB(255, 255, 255)
+shedletskyandsnoopdoggskybox.TextScaled = true
+shedletskyandsnoopdoggskybox.TextSize = 14.000
+shedletskyandsnoopdoggskybox.TextWrapped = true
+
+ChickenNugget.Name = "Chicken Nugget"
+ChickenNugget.Parent = Frame
+ChickenNugget.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+ChickenNugget.BorderColor3 = Color3.fromRGB(212, 255, 20)
+ChickenNugget.BorderSizePixel = 2
+ChickenNugget.Position = UDim2.new(0.0192719493, 0, 0.919899881, 0)
+ChickenNugget.Size = UDim2.new(0.229544953, 0, 0.0675323233, 0)
+ChickenNugget.Font = Enum.Font.SourceSans
+ChickenNugget.Text = "Chicken Nugget"
+ChickenNugget.TextColor3 = Color3.fromRGB(255, 255, 255)
+ChickenNugget.TextScaled = true
+ChickenNugget.TextSize = 14.000
+ChickenNugget.TextWrapped = true
+
+ScatmanWorld.Name = "Scatman World"
+ScatmanWorld.Parent = Frame
+ScatmanWorld.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+ScatmanWorld.BorderColor3 = Color3.fromRGB(212, 255, 20)
+ScatmanWorld.BorderSizePixel = 2
+ScatmanWorld.Position = UDim2.new(0.278372586, 0, 0.919899881, 0)
+ScatmanWorld.Size = UDim2.new(0.229544953, 0, 0.0675323233, 0)
+ScatmanWorld.Font = Enum.Font.SourceSans
+ScatmanWorld.Text = "Scatman World"
+ScatmanWorld.TextColor3 = Color3.fromRGB(255, 255, 255)
+ScatmanWorld.TextScaled = true
+ScatmanWorld.TextSize = 14.000
+ScatmanWorld.TextWrapped = true
+
+HappyTimes.Name = "Happy Times"
+HappyTimes.Parent = Frame
+HappyTimes.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+HappyTimes.BorderColor3 = Color3.fromRGB(212, 255, 20)
+HappyTimes.BorderSizePixel = 2
+HappyTimes.Position = UDim2.new(0.533190548, 0, 0.919899881, 0)
+HappyTimes.Size = UDim2.new(0.229544953, 0, 0.0675323233, 0)
+HappyTimes.Font = Enum.Font.SourceSans
+HappyTimes.Text = "Happy Times"
+HappyTimes.TextColor3 = Color3.fromRGB(255, 255, 255)
+HappyTimes.TextScaled = true
+HappyTimes.TextSize = 14.000
+HappyTimes.TextWrapped = true
+
+_1x1x1x1gui.Name = "1x1x1x1 gui"
+_1x1x1x1gui.Parent = Frame
+_1x1x1x1gui.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+_1x1x1x1gui.BorderColor3 = Color3.fromRGB(212, 255, 20)
+_1x1x1x1gui.BorderSizePixel = 2
+_1x1x1x1gui.Position = UDim2.new(0.533190548, 0, 0.229036301, 0)
+_1x1x1x1gui.Size = UDim2.new(0.229544953, 0, 0.0675323233, 0)
+_1x1x1x1gui.Font = Enum.Font.SourceSans
+_1x1x1x1gui.Text = "1x1x1x1 gui"
+_1x1x1x1gui.TextColor3 = Color3.fromRGB(255, 255, 255)
+_1x1x1x1gui.TextScaled = true
+_1x1x1x1gui.TextSize = 14.000
+_1x1x1x1gui.TextWrapped = true
+
+rainbowbls.Name = "rainbow b**ls "
+rainbowbls.Parent = Frame
+rainbowbls.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+rainbowbls.BorderColor3 = Color3.fromRGB(212, 255, 20)
+rainbowbls.BorderSizePixel = 2
+rainbowbls.Position = UDim2.new(0.788008571, 0, 0.229036301, 0)
+rainbowbls.Size = UDim2.new(0.197425038, 0, 0.0675323233, 0)
+rainbowbls.Font = Enum.Font.SourceSans
+rainbowbls.Text = "rainbow b**ls "
+rainbowbls.TextColor3 = Color3.fromRGB(255, 255, 255)
+rainbowbls.TextScaled = true
+rainbowbls.TextSize = 14.000
+rainbowbls.TextWrapped = true
+
+toadroastremakebyKpRHk.Name = "toadroast remake by @KpRHk"
+toadroastremakebyKpRHk.Parent = Frame
+toadroastremakebyKpRHk.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+toadroastremakebyKpRHk.BorderColor3 = Color3.fromRGB(212, 255, 20)
+toadroastremakebyKpRHk.BorderSizePixel = 2
+toadroastremakebyKpRHk.Position = UDim2.new(0.0171306375, 0, 0.317897379, 0)
+toadroastremakebyKpRHk.Size = UDim2.new(0.229544953, 0, 0.0675323233, 0)
+toadroastremakebyKpRHk.Font = Enum.Font.SourceSans
+toadroastremakebyKpRHk.Text = "toadroast remake by @KpRHk"
+toadroastremakebyKpRHk.TextColor3 = Color3.fromRGB(255, 255, 255)
+toadroastremakebyKpRHk.TextScaled = true
+toadroastremakebyKpRHk.TextSize = 14.000
+toadroastremakebyKpRHk.TextWrapped = true
+
+shedletsify.Name = "shedlets.ify"
+shedletsify.Parent = Frame
+shedletsify.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+shedletsify.BorderColor3 = Color3.fromRGB(212, 255, 20)
+shedletsify.BorderSizePixel = 2
+shedletsify.Position = UDim2.new(0.278372586, 0, 0.317897379, 0)
+shedletsify.Size = UDim2.new(0.229544953, 0, 0.0675323233, 0)
+shedletsify.Font = Enum.Font.SourceSans
+shedletsify.Text = "shedlets.ify"
+shedletsify.TextColor3 = Color3.fromRGB(255, 255, 255)
+shedletsify.TextScaled = true
+shedletsify.TextSize = 14.000
+shedletsify.TextWrapped = true
+
+Floodmap.Name = "Floodmap"
+Floodmap.Parent = Frame
+Floodmap.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Floodmap.BorderColor3 = Color3.fromRGB(212, 255, 20)
+Floodmap.BorderSizePixel = 2
+Floodmap.Position = UDim2.new(0.533190548, 0, 0.317897379, 0)
+Floodmap.Size = UDim2.new(0.229544953, 0, 0.0675323233, 0)
+Floodmap.Font = Enum.Font.SourceSans
+Floodmap.Text = "Water workspace"
+Floodmap.TextColor3 = Color3.fromRGB(255, 255, 255)
+Floodmap.TextScaled = true
+Floodmap.TextSize = 14.000
+Floodmap.TextWrapped = true
+
+Mysterious.Name = "Mysterious"
+Mysterious.Parent = Frame
+Mysterious.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Mysterious.BorderColor3 = Color3.fromRGB(212, 255, 20)
+Mysterious.BorderSizePixel = 2
+Mysterious.Position = UDim2.new(0.788008571, 0, 0.919899881, 0)
+Mysterious.Size = UDim2.new(0.197425038, 0, 0.0675323233, 0)
+Mysterious.Font = Enum.Font.SourceSans
+Mysterious.Text = "Mysterious"
+Mysterious.TextColor3 = Color3.fromRGB(255, 255, 255)
+Mysterious.TextScaled = true
+Mysterious.TextSize = 14.000
+Mysterious.TextWrapped = true
+
+ChikaWantsCake.Name = "Chika Wants Cake"
+ChikaWantsCake.Parent = Frame
+ChikaWantsCake.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+ChikaWantsCake.BorderColor3 = Color3.fromRGB(212, 255, 20)
+ChikaWantsCake.BorderSizePixel = 2
+ChikaWantsCake.Position = UDim2.new(0.0171306208, 0, 0.837296605, 0)
+ChikaWantsCake.Size = UDim2.new(0.229544953, 0, 0.0675323233, 0)
+ChikaWantsCake.Font = Enum.Font.SourceSans
+ChikaWantsCake.Text = "Chika Wants Cake"
+ChikaWantsCake.TextColor3 = Color3.fromRGB(255, 255, 255)
+ChikaWantsCake.TextScaled = true
+ChikaWantsCake.TextSize = 14.000
+ChikaWantsCake.TextWrapped = true
+
+ShedletskyLaugh.Name = "Shedletsky Laugh"
+ShedletskyLaugh.Parent = Frame
+ShedletskyLaugh.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+ShedletskyLaugh.BorderColor3 = Color3.fromRGB(212, 255, 20)
+ShedletskyLaugh.BorderSizePixel = 2
+ShedletskyLaugh.Position = UDim2.new(0.278372586, 0, 0.837296605, 0)
+ShedletskyLaugh.Size = UDim2.new(0.229544953, 0, 0.0675323233, 0)
+ShedletskyLaugh.Font = Enum.Font.SourceSans
+ShedletskyLaugh.Text = "Shedletsky Laugh"
+ShedletskyLaugh.TextColor3 = Color3.fromRGB(255, 255, 255)
+ShedletskyLaugh.TextScaled = true
+ShedletskyLaugh.TextSize = 14.000
+ShedletskyLaugh.TextWrapped = true
+
+GnomeLaugh.Name = "Gnome Laugh"
+GnomeLaugh.Parent = Frame
+GnomeLaugh.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+GnomeLaugh.BorderColor3 = Color3.fromRGB(212, 255, 20)
+GnomeLaugh.BorderSizePixel = 2
+GnomeLaugh.Position = UDim2.new(0.533190548, 0, 0.837296605, 0)
+GnomeLaugh.Size = UDim2.new(0.229544953, 0, 0.0675323233, 0)
+GnomeLaugh.Font = Enum.Font.SourceSans
+GnomeLaugh.Text = "Gnome Laugh"
+GnomeLaugh.TextColor3 = Color3.fromRGB(255, 255, 255)
+GnomeLaugh.TextScaled = true
+GnomeLaugh.TextSize = 14.000
+GnomeLaugh.TextWrapped = true
+
+bloodpop.Name = "bloodpop"
+bloodpop.Parent = Frame
+bloodpop.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+bloodpop.BorderColor3 = Color3.fromRGB(212, 255, 20)
+bloodpop.BorderSizePixel = 2
+bloodpop.Position = UDim2.new(0.788008571, 0, 0.837296605, 0)
+bloodpop.Size = UDim2.new(0.197425038, 0, 0.0675323233, 0)
+bloodpop.Font = Enum.Font.SourceSans
+bloodpop.Text = "bloodpop"
+bloodpop.TextColor3 = Color3.fromRGB(255, 255, 255)
+bloodpop.TextScaled = true
+bloodpop.TextSize = 14.000
+bloodpop.TextWrapped = true
+
+n0scaryfacespam.Name = "n0 scary face spam"
+n0scaryfacespam.Parent = Frame
+n0scaryfacespam.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+n0scaryfacespam.BorderColor3 = Color3.fromRGB(212, 255, 20)
+n0scaryfacespam.BorderSizePixel = 2
+n0scaryfacespam.Position = UDim2.new(0.788008571, 0, 0.317897379, 0)
+n0scaryfacespam.Size = UDim2.new(0.197425038, 0, 0.0675323233, 0)
+n0scaryfacespam.Font = Enum.Font.SourceSans
+n0scaryfacespam.Text = "n0 scary face spam"
+n0scaryfacespam.TextColor3 = Color3.fromRGB(255, 255, 255)
+n0scaryfacespam.TextScaled = true
+n0scaryfacespam.TextSize = 14.000
+n0scaryfacespam.TextWrapped = true
+
+ImageLabel.Parent = Frame
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 1.000
+ImageLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ImageLabel.BorderSizePixel = 0
+ImageLabel.Position = UDim2.new(-0.0219955612, 0, -0.123957135, 0)
+ImageLabel.Size = UDim2.new(1.04196739, 0, 1.3417294, 0)
+ImageLabel.Image = "rbxassetid://18575276185"
+ImageLabel.ImageTransparency = 0.490
+
+-- Scripts:
+
+local function RFJWA_fake_script() -- m00rify.Script 
+	local script = Instance.new('Script', m00rify)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://pastefy.app/RO09Oouy/raw"))()
+	end)
+end
+coroutine.wrap(RFJWA_fake_script)()
+local function RUZY_fake_script() -- shedletskyspam.Script 
+	local script = Instance.new('Script', shedletskyspam)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://pastefy.app/Mo8DeIdy/raw"))()
+	end)
+end
+coroutine.wrap(RUZY_fake_script)()
+local function CVAWH_fake_script() -- Guest666Client.Script 
+	local script = Instance.new('Script', Guest666Client)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://pastebin.com/raw/LxC9T9XB"))()
+	end)
+end
+coroutine.wrap(CVAWH_fake_script)()
+local function JSOGOEG_fake_script() -- Johndoe.Script 
+	local script = Instance.new('Script', Johndoe)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-John-doe-script-by-g00byd0lan-10381"))()
+	end)
+end
+coroutine.wrap(JSOGOEG_fake_script)()
+local function USWBKV_fake_script() -- m00rkiddparticles.Script 
+	local script = Instance.new('Script', m00rkiddparticles)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://pastebin.com/raw/1HQnKAw2"))()
+	end)
+end
+coroutine.wrap(USWBKV_fake_script)()
+local function YVYBBSK_fake_script() -- Frame.Drag Gui Script 
+	local script = Instance.new('LocalScript', Frame)
+
+	function dragify(Main)
+	dragToggle = nil
+	dragSpeed = 0.20 -- You can edit this.
+	dragInput = nil
+	dragStart = nil
+	dragPos = nil
+	
+	function updateInput(input)
+	Delta = input.Position - dragStart
+	Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + Delta.X, startPos.Y.Scale, startPos.Y.Offset + Delta.Y)
+	game:GetService("TweenService"):Create(Main, TweenInfo.new(.25), {Position = Position}):Play()
+	end
+	
+	Main.InputBegan:Connect(function(input)
+	if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then
+	dragToggle = true
+	dragStart = input.Position
+	startPos = Main.Position
+	input.Changed:Connect(function()
+	if (input.UserInputState == Enum.UserInputState.End) then
+	dragToggle = false
+	end
+	end)
+	end
+	end)
+	
+	Main.InputChanged:Connect(function(input)
+	if (input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch) then
+	dragInput = input
+	end
+	end)
+	
+	game:GetService("UserInputService").InputChanged:Connect(function(input)
+	if (input == dragInput and dragToggle) then
+	updateInput(input)
+	end
+	end)
+	end
+	
+	dragify(script.Parent)
+end
+coroutine.wrap(YVYBBSK_fake_script)()
+local function RMKD_fake_script() -- shedletskyandsnoopdoggskybox.Script 
+	local script = Instance.new('Script', shedletskyandsnoopdoggskybox)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://pastefy.app/zIXbQyBw/raw"))()
+	end)
+end
+coroutine.wrap(RMKD_fake_script)()
+local function EIZXZ_fake_script() -- ChickenNugget.Script 
+	local script = Instance.new('Script', ChickenNugget)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://pastefy.app/ijuR6XeA/raw"))()
+	end)
+end
+coroutine.wrap(EIZXZ_fake_script)()
+local function MMAD_fake_script() -- ScatmanWorld.Script 
+	local script = Instance.new('Script', ScatmanWorld)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://pastefy.app/wo1eFZl8/raw"))()
+	end)
+end
+coroutine.wrap(MMAD_fake_script)()
+local function USBJI_fake_script() -- HappyTimes.Script 
+	local script = Instance.new('Script', HappyTimes)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://pastefy.app/ijuR6XeA/raw"))()
+	end)
+end
+coroutine.wrap(USBJI_fake_script)()
+local function LPLQPJF_fake_script() -- _1x1x1x1gui.Script 
+	local script = Instance.new('Script', _1x1x1x1gui)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://pastebin.com/raw/AmFUJNBF"))()
+	end)
+end
+coroutine.wrap(LPLQPJF_fake_script)()
+local function TYGBMDM_fake_script() -- rainbowbls.Script 
+	local script = Instance.new('Script', rainbowbls)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://pastefy.app/HfeS8kEI/raw"))()
+	end)
+end
+coroutine.wrap(TYGBMDM_fake_script)()
+local function VYLNZTV_fake_script() -- toadroastremakebyKpRHk.Script 
+	local script = Instance.new('Script', toadroastremakebyKpRHk)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://pastefy.app/JKDjbxN1/raw"))()
+	end)
+end
+coroutine.wrap(VYLNZTV_fake_script)()
+local function HETHAC_fake_script() -- shedletsify.Script 
+	local script = Instance.new('Script', shedletsify)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://pastefy.app/Mo8DeIdy/raw"))()
+	end)
+end
+coroutine.wrap(HETHAC_fake_script)()
+local function DOITY_fake_script() -- Floodmap.Script 
+	local script = Instance.new('Script', Floodmap)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://pastefy.app/y0L88fwM/raw"))()
+	end)
+end
+coroutine.wrap(DOITY_fake_script)()
+local function IIRUZY_fake_script() -- Mysterious.Script 
+	local script = Instance.new('Script', Mysterious)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://pastefy.app/v3cmc6Sj/raw"))()
+	end)
+end
+coroutine.wrap(IIRUZY_fake_script)()
+local function HVZOVC_fake_script() -- ChikaWantsCake.Script 
+	local script = Instance.new('Script', ChikaWantsCake)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://pastefy.app/FkUBusE4/raw"))()
+	end)
+end
+coroutine.wrap(HVZOVC_fake_script)()
+local function RWWKC_fake_script() -- ShedletskyLaugh.Script 
+	local script = Instance.new('Script', ShedletskyLaugh)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://pastefy.app/kL9HQqD5/raw"))()
+	end)
+end
+coroutine.wrap(RWWKC_fake_script)()
+local function ZUCJP_fake_script() -- GnomeLaugh.Script 
+	local script = Instance.new('Script', GnomeLaugh)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://pastefy.app/mRQUzcmY/raw"))()
+	end)
+end
+coroutine.wrap(ZUCJP_fake_script)()
+local function GKMP_fake_script() -- bloodpop.Script 
+	local script = Instance.new('Script', bloodpop)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://pastefy.app/agQmplOZ"))()
+	end)
+end
+coroutine.wrap(GKMP_fake_script)()
+local function HXDGYDP_fake_script() -- n0scaryfacespam.Script 
+	local script = Instance.new('Script', n0scaryfacespam)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://pastefy.app/0ZX49WTA/raw"))()
+	end)
+end
+coroutine.wrap(HXDGYDP_fake_script)()
